@@ -37,6 +37,8 @@ These tech stacks reflect demand in NYC and other major U.S. cities, tailored to
 
 # Commonly needed Tools/Technologies for .NET roles in the USA, including NYC.
 
+
+
 ## Core Skills
 - .NET 6/7/8.
 - C#, LINQ, Entity Framework Core.
