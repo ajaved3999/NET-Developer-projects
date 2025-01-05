@@ -1,4 +1,4 @@
-## .NET Development projects 
+## .NET Developer projects 
 
 Frontend: JavaScript, React, Angular, Vue.js, Bootstrap, Html, CSS, TailwindCSS.
 
