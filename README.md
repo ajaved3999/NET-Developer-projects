@@ -33,7 +33,7 @@
 
 These tech stacks reflect demand in NYC and other major U.S. cities, tailored to industries like finance, healthcare, and tech startups.
 
-# -------------------------------------------------------------------------- #
+-------------------------------------------------------------------------- 
 
 # Commonly needed Tools/Technologies for .NET roles in the USA, including NYC.
 
