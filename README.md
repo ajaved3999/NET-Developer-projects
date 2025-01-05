@@ -33,7 +33,7 @@
 
 These tech stacks reflect demand in NYC and other major U.S. cities, tailored to industries like finance, healthcare, and tech startups.
 
-# ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- #
+# -------------------------------------------------------------------------- #
 
 # Commonly needed Tools/Technologies for .NET roles in the USA, including NYC.
 
@@ -46,6 +46,8 @@ These tech stacks reflect demand in NYC and other major U.S. cities, tailored to
 - Up-to-date frameworks like .NET 6/7/8 are widely required for modern applications.
 - C# and LINQ are fundamental for .NET programming.
 - Entity Framework Core is a common ORM used in database-driven applications.
+
+---
 
 ## Frontend
 - ASP.NET Core, Blazor, Razor Pages.
@@ -60,6 +62,8 @@ These tech stacks reflect demand in NYC and other major U.S. cities, tailored to
 - HTML/CSS frameworks like Bootstrap and TailwindCSS are standard for UI design.
 - WinForms and WPF are still used in legacy and some desktop apps.
 
+---
+
 ## Backend
 - SQL Server, MongoDB, DynamoDB.
 - Dapper, ADO.NET, Stored Procedures.
@@ -73,6 +77,8 @@ These tech stacks reflect demand in NYC and other major U.S. cities, tailored to
 - SignalR and GraphQL are increasingly used in real-time and modern API projects.
 - Azure Functions and Kubernetes are crucial for scaling backend services in cloud environments.
 
+---
+
 ## Cloud/DevOps
 - Azure, AWS, Google Cloud.
 - CI/CD: Azure DevOps, GitHub Actions.
@@ -85,6 +91,8 @@ These tech stacks reflect demand in NYC and other major U.S. cities, tailored to
 - CI/CD tools are vital for automating builds and deployments.
 - Monitoring tools like Serilog ensure application health in production.
 
+---
+
 ## Testing
 - Unit: xUnit, NUnit, MSTest.
 - UI: Selenium, Playwright.
@@ -95,6 +103,8 @@ These tech stacks reflect demand in NYC and other major U.S. cities, tailored to
 - Unit testing frameworks like xUnit are essential for writing robust code.
 - Selenium and Postman are widely used for UI and API testing, ensuring functionality.
 - Load testing with tools like JMeter is key for handling large-scale applications.
+
+---
 
 ## Collaboration
 - Git, Azure Repos, GitHub.
