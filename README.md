@@ -18,7 +18,7 @@ Testing and Debugging:
     Automated UI testing: Selenium / Playwright
     API testing tools: Postman, Swagger
 
-## Type of projects in this repository
+## Type of projects in this repository utilizing following skills for fullstack projects
 
 1. **ASP.NET Core + React + SQL Server**
    - Popular for enterprise web apps.
